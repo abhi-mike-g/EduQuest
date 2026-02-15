@@ -58,7 +58,7 @@ Automatically mixes question types (new material + weak past topics) based on pe
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                     Frontend Layer                          │
-│              Next.js 14 + Tailwind + shadcn/ui             │
+│              Next.js 14 + Tailwind + shadcn/ui              │
 │                   (AWS Amplify Hosting)                     │
 └─────────────────────────────────────────────────────────────┘
                               │
